@@ -94,8 +94,7 @@ DELETE    /animal/:id         Remover pet (Apenas dono)               JWT
 
 - Clean Code: Uso de Param Decorators para evitar a repetição de código ao buscar o usuário dentro das requisições.
 
-<p align="center"> Desenvolvido por <strong>Mário</strong> 🚀 </p>
-
+<p align="center"> Desenvolvido por <strong>Mário</strong>https://www.linkedin.com/in/jos%C3%A9-m%C3%A1rio/ 🚀 </p>j
 
 
 
